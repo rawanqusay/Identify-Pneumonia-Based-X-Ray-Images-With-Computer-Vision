@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+pickleshare
+plotly
+scikit.learn==1.4.0
+tensorflow==2.15.0
+tensorflow-hub==0.16.1
+pillow

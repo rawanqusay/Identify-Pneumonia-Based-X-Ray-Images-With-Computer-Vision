@@ -1,0 +1,8 @@
+Link Huggingface:
+https://huggingface.co/spaces/fazrinmuh/GC7
+
+Link Dataset : 
+https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
+
+Link Model : 
+https://drive.google.com/file/d/1UxX4QoKemGYdLwF2UXTZax11mIm8ZJYu/view?usp=sharing
